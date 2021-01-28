@@ -10,11 +10,14 @@
             /** 代理客户id */
             agent_id: 1,
             /** http 服务端地址 */
-            http_url: 'http://im.bddianying.com',
+           // http_url: 'http://im.bddianying.com',
+	   http_url: 'http://open.yuelingnet.cn',
             /** 静态文件存放地址 */
-			 static_url: 'http://im.bddianying.com',
+			 //static_url: 'http://im.bddianying.com',
+			 static_url: 'http://open.yuelingnet.cn',
             /** socket 服务端地址 */
-            socket_url: 'ws://111.229.246.92:8383',
+            //socket_url: 'ws://111.229.246.92:8383',
+	    socket_url: 'ws://121.4.163.89:8383',
             /** socket 连接状态 */
             socket_state: 0,
             /** 好友申请通知 */
